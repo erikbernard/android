@@ -5,9 +5,9 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "fr.smarquis.applinks",
+            "package_name": "br.com.ifce.smash",
             "sha256_cert_fingerprints": [
-                "6B:41:26:A6:1E:D8:BD:91:D3:8B:57:10:5F:07:5C:2D:AB:3E:26:A4:D1:3C:9C:97:15:78:9E:0D:56:0A:CE:DC"
+                "77:E7:F8:B3:CA:84:0E:6E:B2:CE:E6:42:A1:C4:53:0B:5A:81:3E:9B:FB:BF:D7:91:E1:36:64:28:B6:1E:DD:F3"
             ]
         }
     }
